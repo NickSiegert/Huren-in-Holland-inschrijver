@@ -12,8 +12,7 @@ The script will:
   Beautiful soup (pip install beautifulsoup4)
 
 ## **Usage**
-  *Edit the two global variables with your own "holland huren" account credentials
-    email: "email adress of your: "huren in holland account"
-    pasword: "password of your: "huren in holland account"
-  *Run the script
-  
+* Edit the two global variables with your own "holland huren" account credentials
+    * email: "email adress of your: "huren in holland account"
+    * password: "password of your: "huren in holland account"
+* Run the script
