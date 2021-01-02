@@ -8,8 +8,8 @@ The script will:
   4. Give a message window if all 3 register tokens are used
 
 ## **Dependencies**
-  Selenium (pip install selenium)
-  Beautiful soup (pip install beautifulsoup4)
+ * Selenium (pip install selenium)
+ * Beautiful soup (pip install beautifulsoup4)
 
 ## **Usage**
 * Edit the two global variables with your own "holland huren" account credentials
