@@ -1,4 +1,4 @@
-#**Introduction**
+# **Introduction**
 Python script to automatically login and register for: Huren in Holland (Woningnet) houses. 
 The script will:
 
@@ -7,11 +7,11 @@ The script will:
   3. Register to the first 1,2 or 3 houses on that have first closing date
   4. Give a message window if all 3 register tokens are used
 
-##**Dependencies**
+## **Dependencies**
   Selenium (pip install selenium)
   Beautiful soup (pip install beautifulsoup4)
 
-##**Usage**
+## **Usage**
   *Edit the two global variables with your own "holland huren" account credentials
     email: "email adress of your: "huren in holland account"
     pasword: "password of your: "huren in holland account"
